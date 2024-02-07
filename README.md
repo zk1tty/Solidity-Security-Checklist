@@ -1,7 +1,30 @@
 # Solidity-Security-Checklist
-Checklist for solidity contract deployment onto mainnet
+Checklist for solidity contract deployment onto mainnet.
 
-## Case: ERC721, ERC1155
+**When to conduct this checklist**
+
+This checklist suppose to be conducted before code freezing.
+However during integration test, and 
+
+## Methodology
+
+I start scanning solidity smart contracts to figure out top 1.0% common and critical vulnerabilities.
+
+- How to list points:
+    - Review the vulnerability report patterns from the top 10 projects within 2 months
+- Concentrate on the top 1% of critical issues.
+    - Check the pattern of vulnerability report from top 10 projects
+
+### Coverage
+I filtered samples as the following criteria.
+- Project Inherited ERC721 or ERC1155, and ERC2918(NFT Royalties).
+
+
+### Policy
+
+Keep it Simple, up to 10 points.
+
+## CheckList
 ### 1. **ReentrancyGuard**
 
 - function to input:
@@ -25,4 +48,5 @@ Checklist for solidity contract deployment onto mainnet
 
 ### 6. Coverage of Operations
 
+---
 This checklist is inspired by [OWAPS-Web-Checklist](https://github.com/0xRadi/OWASP-Web-Checklist).
