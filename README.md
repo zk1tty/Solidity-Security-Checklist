@@ -4,7 +4,6 @@ Checklist for solidity contract deployment onto mainnet.
 **When to conduct this checklist**
 
 This checklist suppose to be conducted before code freezing.
-However during integration test, and 
 
 ## Methodology
 
@@ -66,11 +65,17 @@ Keep it Simple, up to 10 points.
 
 # References
 Cited from the reports of following companies.
-
-<img src="./assets/audit-company-logo/Immunefi-logo.png" width="250" height="60">
-<img src="./assets/audit-company-logo/trail-of-bits-logo.png" width="250" height="60">
-  
-<img src="./assets/audit-company-logo/three-sigma-logo.png" width="250" height="60">
-<img src="./assets/audit-company-logo/0xmacro-logo.png" width="250" height="60">
+<a href="https://immunefi.com/">
+    <img src="./assets/audit-company-logo/Immunefi-logo.png" width="250" height="60">
+</a>
+<a href="https://www.trailofbits.com/">
+    <img src="./assets/audit-company-logo/trail-of-bits-logo.png" width="250" height="60">
+</a>  
+<a href="https://threesigma.xyz/">
+    <img src="./assets/audit-company-logo/three-sigma-logo.png" width="250" height="60">
+</a>
+<a href="https://0xmacro.com/">
+    <img src="./assets/audit-company-logo/0xmacro-logo.png" width="250" height="60">
+</a>
 
 This checklist is inspired by [OWAPS-Web-Checklist](https://github.com/0xRadi/OWASP-Web-Checklist).
