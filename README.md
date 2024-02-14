@@ -15,6 +15,22 @@ I start scanning solidity smart contracts to figure out top 1.0% common and crit
 - Concentrate on the top 1% of critical issues.
     - Check the pattern of vulnerability report from top 10 projects
 
+### Vulnerability Severity Classification System
+I refer to [the latest version(v2.3)](https://immunefi.com/immunefi-vulnerability-severity-classification-system-v2-3/) of Immunefi's vulnerability Severity Classification System.
+
+4-levels of severity on each scope segment.
+
+4-levels of Severity:
+- Critical
+- High
+- Medium
+- Low
+
+Scope Segment:
+- [Blockchain/DLT](./documents/Methodology.md#1-blockchaindlt)
+- Smart Contract
+- WebApp
+
 ### Coverage
 I filtered samples as the following criteria.
 - Project Inherited ERC721 or ERC1155, and ERC2918(NFT Royalties).
@@ -24,12 +40,12 @@ I filtered samples as the following criteria.
 
 Keep it Simple, up to 10 points.
 
-## CheckList
-### 1. **ReentrancyGuard**
+# CheckList
+### 1. ReentrancyGuard
 
 - function to input:
 
-### 2. **AccessControl**
+### 2. AccessControl
 
 1. critical flow
 2. extensional function for structs: tokenURI, 
