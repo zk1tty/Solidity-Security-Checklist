@@ -66,8 +66,10 @@ Keep it Simple, up to 10 points.
 
 ---
 Cited from the reports of following companies.
+
 <img src="./assets/audit-company-logo/Immunefi-logo.png" width="250" height="60">
 <img src="./assets/audit-company-logo/trail-of-bits-logo.png" width="250" height="60">
+  
 <img src="./assets/audit-company-logo/three-sigma-logo.png" width="250" height="60">
 <img src="./assets/audit-company-logo/0xmacro-logo.png" width="250" height="60">
 
