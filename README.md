@@ -66,9 +66,9 @@ Keep it Simple, up to 10 points.
 
 ---
 Cited from the reports of following companies.
-![ImmuneFi](./assets/audit-company-logo/Immunefi-logo.png)
-![Trails of Bits](./assets/audit-company-logo/trail-of-bits-logo.png)
-![0xMacro](./assets/audit-company-logo/0xmacro-logo.png)
-![ThreeSigma](./assets/audit-company-logo/three-sigma-logo.png)
+<img src="./assets/audit-company-logo/Immunefi-logo.png" width="250" height="60">
+<img src="./assets/audit-company-logo/trail-of-bits-logo.png" width="250" height="60">
+<img src="./assets/audit-company-logo/three-sigma-logo.png" width="250" height="60">
+<img src="./assets/audit-company-logo/0xmacro-logo.png" width="250" height="60">
 
 This checklist is inspired by [OWAPS-Web-Checklist](https://github.com/0xRadi/OWASP-Web-Checklist).
