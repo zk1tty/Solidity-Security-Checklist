@@ -28,8 +28,8 @@ I refer to [the latest version(v2.3)](https://immunefi.com/immunefi-vulnerabilit
 
 Scope Segment:
 - [Blockchain/DLT](./documents/Methodology.md#1-blockchaindlt)
-- Smart Contract
-- WebApp
+- [Smart Contract](./documents/Methodology.md#2-smart-contracts)
+- [WebApp](./documents/Methodology.md#3-websites-and-apps)
 
 ### Coverage
 I filtered samples as the following criteria.
