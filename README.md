@@ -64,7 +64,7 @@ Keep it Simple, up to 10 points.
 
 ### 6. Coverage of Operations
 
----
+# References
 Cited from the reports of following companies.
 
 <img src="./assets/audit-company-logo/Immunefi-logo.png" width="250" height="60">
