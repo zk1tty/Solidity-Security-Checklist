@@ -65,6 +65,7 @@ Keep it Simple, up to 10 points.
 
 # References
 Cited from the reports of following companies.
+
 <a href="https://immunefi.com/">
     <img src="./assets/audit-company-logo/Immunefi-logo.png" width="250" height="60">
 </a>
